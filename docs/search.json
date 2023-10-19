@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "subratamondal1.github.io",
+    "title": "Subrata Mondal",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "This is a Quarto website.s\nTo learn more about Quarto websites visit https://quarto.org/docs/websites or click me."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "favourite.html",
+    "href": "favourite.html",
+    "title": "favourites",
+    "section": "",
+    "text": "ML\nDL"
   }
 ]

@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "subratamondal1.github.io"
+  title: "Subrata Mondal"
   navbar:
     left:
       - href: index.qmd
@@ -12,7 +12,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
     toc: true
 

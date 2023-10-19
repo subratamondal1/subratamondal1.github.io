@@ -1,8 +1,27 @@
 ---
-title: "subratamondal1.github.io"
+title: "Subrata Mondal"
+image: assets/my_img.png
+resources: assets/resume.pdf
+about:
+    template: jolla
+    image-shape: round
+    image-width: 15em
+    links:
+        -   icon: envelope-at
+            text: email
+            href: mailto:subratasubha2@gmail.com
+        -   icon: github
+            text: github
+            href: https://github.com/subratamondal1
+        -   icon: file-text
+            text: resume
+            href: assets/resume.pdf
+        -   icon: whatsapp
+            text: whatsapp
+            href: https://wa.me/6294505807
 ---
 
-This is a Quarto website.
+This is a Quarto website.s
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+To learn more about Quarto websites visit <https://quarto.org/docs/websites> or click [me](https://quarto.org/docs/websites).
 
