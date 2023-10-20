@@ -1,0 +1,17 @@
+---
+title: "Blogs"
+format: html
+listing:
+  contents: posts
+  image-height: 8rem
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  feed:
+    title: "My Blog Feed"
+    description: "The latest posts from my blog"
+page-layout: full
+title-block-banner: false
+---

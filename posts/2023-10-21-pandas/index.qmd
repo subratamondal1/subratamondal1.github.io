@@ -1,0 +1,19 @@
+---
+title: "Logistic Regression"
+title-block-banner: 2023-10-21.jpg
+# title-block-banner-color: black
+description: "Showing the importance of exploratory data analysis"
+author:
+  - name: Subrata Mondal
+format: html
+date: 2023-10-21
+date-format: long
+# self-defined categories
+categories: [Numpy, Python, EDA]
+image: 2023-10-21.jpg
+# setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+draft: false
+---
+
+
+Hi, I am trying to learn about creating blogs inside a quarto  website.

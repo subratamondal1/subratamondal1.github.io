@@ -4,17 +4,21 @@ project:
 
 website:
   title: "Subrata Mondal"
+  description: My personal website for displaying my learning journey.
+  site-url: https://subratamondal1.github.io/
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
+    search: true
+    logo-href: index.qmd
+    pinned: true
+    right:
+      - blog.qmd
+      - projects.qmd
+      - icon: rss
+        href: index.xml
 format:
   html:
-    theme: lux
+    theme:
+      light: lux
+      dark: lux
     css: styles.css
     toc: true
-
-
-

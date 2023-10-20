@@ -1,0 +1,20 @@
+---
+title: "Projects"
+format: html
+listing:
+  contents: projects
+  image-height: 20rem
+  sort: "date desc"
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  type: grid
+  grid-columns: 2
+  grid-item-align: center
+  grid-item-border: true
+  feed:
+    title: "My Blog Feed"
+    description: "The latest posts from my blog"
+page-layout: full
+title-block-banner: false
+---

@@ -16,12 +16,15 @@ about:
         -   icon: file-text
             text: resume
             href: assets/resume.pdf
+        -   icon: linkedin
+            text: linkedin
+            href: https://www.linkedin.com/in/i-am-subrata-mondal/
         -   icon: whatsapp
             text: whatsapp
             href: https://wa.me/6294505807
 ---
 
-This is a Quarto website.s
+Hi, I have a BTech degree in Computer Science Engineering and I am currently self-studying Machine Learning. I enjoy creating and deploying deep learning models that can address real-world challenges and make a difference.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites> or click [me](https://quarto.org/docs/websites).
+
 

@@ -9,6 +9,7 @@ packages = [{include = "subratamondal1"}]
 [tool.poetry.dependencies]
 python = "^3.11"
 quarto = "^0.1.0"
+jupyter = "^1.0.0"
 
 
 [build-system]

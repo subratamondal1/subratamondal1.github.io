@@ -1,0 +1,17 @@
+[
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/2023-10-21-pandas/index.html",
+      "/posts/2023-10-20-numpy/index.html",
+      "/posts/2023-10-20-numpy/hello.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/pets_breed_detector/index.html",
+      "/projects/birds_species_detector/index.html"
+    ]
+  }
+]

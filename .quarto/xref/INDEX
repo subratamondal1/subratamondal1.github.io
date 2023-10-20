@@ -7,5 +7,56 @@
   },
   "favourite.qmd": {
     "favourite.html": "aafa4304"
+  },
+  "blogs.qmd": {
+    "blogs.html": "a97c0930"
+  },
+  "projects.qmd": {
+    "projects.html": "51958bfa"
+  },
+  "blogs_homepage.qmd": {
+    "blogs_homepage.html": "1ee76d38"
+  },
+  "blogs/blog1/blog1.qmd": {
+    "blog1.html": "f4f125ff"
+  },
+  "blogs/blog2/blog2.qmd": {
+    "blog2.html": "bb8f699d"
+  },
+  "posts/blog1/blog1.qmd": {
+    "blog1.html": "5aa120ec"
+  },
+  "posts/blog2/blog2.qmd": {
+    "blog2.html": "7a307345"
+  },
+  "blog.qmd": {
+    "blog.html": "05984aa7"
+  },
+  "posts/2023-10-20-numpy/index.qmd": {
+    "index.html": "594aba87"
+  },
+  "posts/2023-10-21-pandas/index.qmd": {
+    "index.html": "7e5a644e"
+  },
+  "posts/2023-10-20-numpy/nlp.ipynb": {
+    "nlp.html": "5a0f4fd0"
+  },
+  "posts/2023-10-20-numpy/lecture1-introduction.ipynb": {
+    "lecture1-introduction.html": "6b74295b"
+  },
+  "posts/2023-10-20-numpy/hello.ipynb": {
+    "hello.html": "84e58be4"
+  },
+  "projects/pets_breed_detector/pets_breed_detector.qmd": {
+    "pets_breed_detector.html": "ca49d542"
+  },
+  "projects/birds_species_detector/birds_species.qmd": {
+    "birds_species.html": "b421bc0f"
+  },
+  "projects/pets_breed_detector/index.qmd": {
+    "index.html": "df10863b"
+  },
+  "projects/birds_species_detector/index.qmd": {
+    "index.html": "c400a72d"
   }
 }

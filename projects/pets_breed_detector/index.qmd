@@ -1,0 +1,16 @@
+---
+title: "Pets Breed Detector"
+title-block-banner: pets_breed_detector.jpg
+# title-block-banner-color: black
+description: "Showing the importance of exploratory data analysis"
+author:
+  - name: Subrata Mondal
+format: html
+date: 2023-10-20
+date-format: long
+# self-defined categories
+categories: [Numpy, Python, EDA]
+image: pets_breed_detector.jpg
+# setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+draft: false
+---
